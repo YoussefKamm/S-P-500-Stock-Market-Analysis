@@ -7,10 +7,10 @@ This project focuses on **scraping historical stock prices** of S&P 500 companie
 ## 🚀 Project Overview
 
 The project involves:  
-- **Web scraping** historical stock prices for S&P 500 companies.  
-- **Data cleaning** and preprocessing using Python.  
-- **Exploratory Data Analysis (EDA)** to uncover trends and insights.  
-- **Visualizing results** in Power BI dashboards for better insights into stock performance.
+- **Web scraping :** historical stock prices for S&P 500 companies.  
+- **Data cleaning :** and preprocessing using Python.  
+- **Exploratory Data Analysis (EDA) :** to uncover trends and insights.  
+- **Visualizing results :** in Power BI dashboards for better insights into stock performance.
 
 ---
 
