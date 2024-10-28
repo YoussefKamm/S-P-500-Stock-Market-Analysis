@@ -72,4 +72,4 @@ S-P-500-Stock-Market-Analysis/
 ## 👤 Author
 
 - [LinkedIn : Youssef Kammoun](https://www.linkedin.com/in/kammounyoussef)  
-- Email : [kammounyoussef1@isimsf.u-sfax.tn](mailto:kammounyoussef1@isimsf.u-sfax.tn)
+- [Email : kammounyoussef1@isimsf.u-sfax.tn](mailto:kammounyoussef1@isimsf.u-sfax.tn)
