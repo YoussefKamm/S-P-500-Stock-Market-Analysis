@@ -45,17 +45,18 @@ S-P-500-Stock-Market-Analysis/
 
 ## 🏆 Results & Dashboard
 
-### Home Page :
+### Home Dashboard :
   
 ![image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Home.jpg)
 
-### Analysis Page :
+### Analysis Dashboard :
 
 ![image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-cap/Analysis.jpg)
 
 ---
 
 ## 💡 Future Improvements
+
 - Automate the data scraping process using scheduled scripts.
 - Include fundamental analysis by scraping financial metrics (PE ratio, EPS, etc.).
 - Expand analysis to other indices, such as NASDAQ-100 or Dow Jones.
