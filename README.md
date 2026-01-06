@@ -118,7 +118,7 @@ The Power BI dashboard offers a **professional analytics view** with advanced fi
   Compare individual stocks with the overall S&P 500 index.
 
 #### Home Dashboard
-![Power BI Home](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-Power BI-Cap/Home.jpg)
+![Power BI Home]([https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-Power BI-Cap/Home.jpg](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-Power%20BI-Cap/Analysis.jpg))
 
 #### Analysis Dashboard
 ![Power BI Analysis](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-Power BI-Cap/Analysis.jpg)
