@@ -101,6 +101,7 @@ The Python dashboard provides:
 - **Trend Smoothing:**  
   Moving averages illustrate long-term trends and reduce short-term market noise.
 
+#### Dashboard
 ![image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-Python-Cap/Screenshot%202026-01-01%20211108.jpg)
 
 
@@ -118,10 +119,10 @@ The Power BI dashboard offers a **professional analytics view** with advanced fi
 - **Performance Comparison:**
   Compare individual stocks with the overall S&P 500 index.
 
-- #### Home Dashboard
+#### Home Dashboard
 ![image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-Power%20BI-Cap/Home.jpg)
 
-- #### Analysis Dashboard
+#### Analysis Dashboard
 ![image](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Dashboard-Power%20BI-Cap/Analysis.jpg)
 
 ---
