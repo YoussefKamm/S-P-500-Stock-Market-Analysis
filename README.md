@@ -101,7 +101,7 @@ The Python dashboard provides:
 - **Trend Smoothing:**  
   Moving averages illustrate long-term trends and reduce short-term market noise.
 
-![image][Python Dashboard]([https://github.com/YoussefKamm/Car-Price-Predictor/blob/main/Screenshot-Web.png](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/tree/main/Dashboard-Python-Cap))
+![image]([https://github.com/YoussefKamm/Car-Price-Predictor/blob/main/Screenshot-Web.png](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/tree/main/Dashboard-Python-Cap))
 
 
 ---
