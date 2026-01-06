@@ -101,7 +101,7 @@ The Python dashboard provides:
 - **Trend Smoothing:**  
   Moving averages illustrate long-term trends and reduce short-term market noise.
 
-![Python Dashboard](https://github.com/YoussefKamm/S-P-500-Stock-Market-Analysis/blob/main/Image/python_dashboard.png)
+![Python Dashboard](Dashboard-Python-Cap/Screenshot 2026-01-01 211108.jpg)
 
 ---
 
