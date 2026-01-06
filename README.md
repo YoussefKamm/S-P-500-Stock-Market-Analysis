@@ -53,12 +53,10 @@ S-P-500-Stock-Market-Analysis/
 - ├── Dashboard-Power-BI-Cap/ # Power BI dashboard screenshots
 - ├── Dashboard-Python-Cap/ # Python interactive dashboard screenshots
 - ├── Pictures/ # Images used in Python dashboards and documentation
-- ├── S&P-500-Stock-Market-Analysis-Project.ipynb
--   │ # Jupyter Notebook (interactive analysis)
-- ├── S&P-500-Stock-Market-Analysis-Project.py
--   │ # Python script (scraping, preprocessing, dashboards)
-- ├── dark_blue.json # Custom Power BI theme file
--├── README.md # Project documentation
+- ├── S&P-500-Stock-Market-Analysis-Project.ipynb  │  # Jupyter Notebook (interactive analysis)
+- ├── S&P-500-Stock-Market-Analysis-Project.py  │  # Python script (scraping, preprocessing, dashboards)
+- ├── dark_blue.json  │  # Custom Power BI theme file
+- ├── README.md  │  # Project documentation
 
 
 
