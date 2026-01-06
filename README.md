@@ -48,29 +48,18 @@ The main objectives of this project are to:
 
 ## 📂 Folder Structure
 
+---
 S-P-500-Stock-Market-Analysis/
-│
-├── Dashboard-Power-BI-Cap/
-│ └── Screenshots of the Power BI dashboards used for advanced financial analysis.
-│
-├── Dashboard-Python-Cap/
-│ └── Screenshots of the Python interactive dashboard created with Matplotlib and ipywidgets.
-│
-├── Pictures/
-│ └── Images and figures used within the Python dashboard and documentation.
-│
+├── Dashboard-Power-BI-Cap/ # Power BI dashboard screenshots
+├── Dashboard-Python-Cap/ # Python interactive dashboard screenshots
+├── Pictures/ # Images used in Python dashboards and documentation
 ├── S&P-500-Stock-Market-Analysis-Project.ipynb
-│ └── Jupyter Notebook version of the project for interactive exploration and visualization.
-│
+│ # Jupyter Notebook (interactive analysis)
 ├── S&P-500-Stock-Market-Analysis-Project.py
-│ └── Python script containing the full data pipeline, analysis logic, and dashboard implementation.
-│
-├── dark_blue.json
-│ └── Custom Power BI theme file used to style the dashboards.
-│
-├── README.md
-│ └── Project documentation.
-
+│ # Python script (scraping, preprocessing, dashboards)
+├── dark_blue.json # Custom Power BI theme file
+├── README.md # Project documentation
+---
 
 
 ---
