@@ -50,14 +50,26 @@ The main objectives of this project are to:
 
 S-P-500-Stock-Market-Analysis/
 │
-├── Image/ # Images from Python dashboard (.png)
-├── Dashboard-cap/ # Power BI dashboard screenshots (.png)
-├── Scrap-Analysis-Data.py # Python script (scraping, preprocessing, analysis)
-├── Data/ # Exported CSV datasets
-│ ├── symbols_df.csv
-│ ├── historical_prices_df.csv
-│ └── calculated_metrics_df.csv
-├── README.md # Project documentation
+├── Dashboard-Power-BI-Cap/
+│ └── Screenshots of the Power BI dashboards used for advanced financial analysis.
+│
+├── Dashboard-Python-Cap/
+│ └── Screenshots of the Python interactive dashboard created with Matplotlib and ipywidgets.
+│
+├── Pictures/
+│ └── Images and figures used within the Python dashboard and documentation.
+│
+├── S&P-500-Stock-Market-Analysis-Project.ipynb
+│ └── Jupyter Notebook version of the project for interactive exploration and visualization.
+│
+├── S&P-500-Stock-Market-Analysis-Project.py
+│ └── Python script containing the full data pipeline, analysis logic, and dashboard implementation.
+│
+├── dark_blue.json
+│ └── Custom Power BI theme file used to style the dashboards.
+│
+├── README.md
+│ └── Project documentation.
 
 
 
